@@ -9,3 +9,7 @@ keep practice
 
 ## [Design](https://github.com/tigerwash/LeetCode/tree/master/src/Design)
 * [1195. Fizz Buzz Multithreaded](https://github.com/tigerwash/LeetCode/blob/master/src/Design/1955/Fizz_buzz_multithreaded/1195.%20Fizz%20Buzz%20Multithreaded%20)
+
+
+## [Math]()
+* [2575. Find the Divisibility Array of a String]() 大数整除
