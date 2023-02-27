@@ -11,5 +11,5 @@ keep practice
 * [1195. Fizz Buzz Multithreaded](https://github.com/tigerwash/LeetCode/blob/master/src/Design/1955/Fizz_buzz_multithreaded/1195.%20Fizz%20Buzz%20Multithreaded%20)
 
 
-## [Math]()
-* [2575. Find the Divisibility Array of a String]() 大数整除
+## [Math](https://github.com/tigerwash/LeetCode/tree/master/src/Math)
+* [2575. Find the Divisibility Array of a String](https://github.com/tigerwash/LeetCode/blob/master/src/Math/Find_the_Divisibility_Array_of_a_String.java) 大数整除
