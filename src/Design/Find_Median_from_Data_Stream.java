@@ -2,6 +2,14 @@ package Design;
 
 import java.util.PriorityQueue;
 
+/**
+
+ 维护两个heap， 一个maxheap 存小与median的值, 一个 minheap 存大于median 的值。
+ 每次有新值加入的时候，两边的heap balance 一下，（balance 的方法得背）
+ 永远保证，small 不小于 large。
+ 最后只要通过输入的个数是单数还是双数来判断是取两侧平均值还是取small 的peek
+
+ **/
 public class Find_Median_from_Data_Stream {
     PriorityQueue<Integer> larger;
     PriorityQueue<Integer> smaller;
