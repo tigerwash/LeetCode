@@ -1,5 +1,9 @@
+package Design;
+
+import java.util.function.IntConsumer;
+
 /***
- *
+ *  1955 Fizz Buzz
  *  主要内容，学会 wait()  和 notifyAll();
  *
  */
