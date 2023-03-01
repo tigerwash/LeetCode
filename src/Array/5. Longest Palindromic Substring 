@@ -1,4 +1,9 @@
-class Solution {
+package Array;
+/**
+ 5. Longest Palindromic Substring
+ 中间开花
+ **/
+class Longest_Palindrome_Substring {
     public String longestPalindrome(String s) {
         char[] arr = s.toCharArray();
         int max = 1;
