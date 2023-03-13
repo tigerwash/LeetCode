@@ -23,5 +23,9 @@ keep practice
 * [380. Insert Delete GetRandom O(1)](https://github.com/tigerwash/LeetCode/blob/master/src/Design/Insert_Delete_GetRandom.java)
 * [244. Shortest Word Distance II](https://github.com/tigerwash/LeetCode/blob/master/src/Design/Shortest_Word_Distance_II.java)
 
+## [Map]
+* [2250. Count Number of Rectangles Containing Each Point]
+
+
 ## [Math](https://github.com/tigerwash/LeetCode/tree/master/src/Math)
 * [2575. Find the Divisibility Array of a String](https://github.com/tigerwash/LeetCode/blob/master/src/Math/Find_the_Divisibility_Array_of_a_String.java) 大数整除
