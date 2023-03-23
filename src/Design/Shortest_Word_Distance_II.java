@@ -14,7 +14,7 @@ import java.util.Map;
 public class Shortest_Word_Distance_II {
     Map<String, List<Integer>> map = new HashMap();
 
-    public WordDistance(String[] wordsDict) {
+    public void WordDistance(String[] wordsDict) {
         for(int i = 0; i< wordsDict.length; i++){
             if(!map.containsKey(wordsDict[i])){
                 map.put(wordsDict[i], new ArrayList());
