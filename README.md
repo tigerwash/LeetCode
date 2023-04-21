@@ -3,7 +3,9 @@ keep practice
 
 ## [Array](https://github.com/tigerwash/LeetCode/tree/master/src/Array)
 * [5. Longest Palindromic Substring](https://github.com/tigerwash/LeetCode/blob/master/src/Array/5.%20Longest%20Palindromic%20Substring%20)
+* [80. Remove Duplicates from Sorted Array II]
 * [228. Summary Ranges](https://github.com/tigerwash/LeetCode/blob/master/src/Array/Summary_Ranges.java)
+* [334. Increasing Triplet Subsequence]
 * [621. Task Scheduler](https://github.com/tigerwash/LeetCode/blob/master/src/Array/Task_schedule.java)
 
 ## [ BFS ](https://github.com/tigerwash/LeetCode/tree/master/src/BFS)
@@ -43,7 +45,12 @@ https://leetcode.com/problems/minimum-time-to-repair-cars/discuss/3312003/JavaC%
 * [380. Insert Delete GetRandom O(1)](https://github.com/tigerwash/LeetCode/blob/master/src/Design/Insert_Delete_GetRandom.java)
 * [244. Shortest Word Distance II](https://github.com/tigerwash/LeetCode/blob/master/src/Design/Shortest_Word_Distance_II.java)
 
+## [DP](https://github.com/tigerwash/LeetCode/tree/master/src/DP)
+* [1062. Longest Repeating Substring](https://github.com/tigerwash/LeetCode/blob/master/src/DP/Longest_Repeating_Substring.java)
+* [2327. Number of People Aware of a Secret]
+
 ## [LinkedList](https://github.com/tigerwash/LeetCode/tree/master/src/LinkedList)
+* [82. Remove Duplicates from Sorted List II]
 * [237. Delete Node in a Linked List](https://github.com/tigerwash/LeetCode/blob/master/src/LinkedList/Delete_Node_in_a_Linked_List.java)
 * [2487. Remove Nodes From Linked List](https://github.com/tigerwash/LeetCode/blob/master/src/LinkedList/Remove_Nodes_From_Linked_List.java)
 
