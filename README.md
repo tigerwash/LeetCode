@@ -3,10 +3,12 @@ keep practice
 
 ## [Array](https://github.com/tigerwash/LeetCode/tree/master/src/Array)
 * [5. Longest Palindromic Substring](https://github.com/tigerwash/LeetCode/blob/master/src/Array/5.%20Longest%20Palindromic%20Substring%20)
-* [80. Remove Duplicates from Sorted Array II]
+* [80. Remove Duplicates from Sorted Array II](https://github.com/tigerwash/LeetCode/blob/master/src/Array/Remove_Duplicates_from_Sorted_Array_II.java)
 * [228. Summary Ranges](https://github.com/tigerwash/LeetCode/blob/master/src/Array/Summary_Ranges.java)
-* [334. Increasing Triplet Subsequence]
+* [334. Increasing Triplet Subsequence](https://github.com/tigerwash/LeetCode/blob/master/src/Array/Increasing_Triplet_Subsequence.java)
 * [621. Task Scheduler](https://github.com/tigerwash/LeetCode/blob/master/src/Array/Task_schedule.java)
+* [2337. Move Pieces to Obtain a String]
+
 
 ## [ BFS ](https://github.com/tigerwash/LeetCode/tree/master/src/BFS)
 * [130. Surrounded Regions](https://github.com/tigerwash/LeetCode/blob/master/src/BFS/Surrounded_Regions.java)
@@ -14,7 +16,6 @@ keep practice
 ## [Binary Tree](https://github.com/tigerwash/LeetCode/tree/master/src/Binary_Tree)
 * [513. Find Bottom Left Tree Value](https://github.com/tigerwash/LeetCode/blob/master/src/Binary_Tree/Find_Bottom_Left_Tree_Value.java)
 * [536. Construct Binary Tree from String](https://github.com/tigerwash/LeetCode/blob/master/src/Binary_Tree/Construct_Binary_Tree_from_String.java)
-* [2594. Minimum Time to Repair Cars]
 
 House Robber IV
 Maximum Candies Allocated to K Children
@@ -35,6 +36,9 @@ https://leetcode.com/problems/minimum-time-to-repair-cars/discuss/3312003/JavaC%
 * [702. Search in a Sorted Array of Unknown Size](https://github.com/tigerwash/LeetCode/blob/master/src/Binary_Search/Search_in_a_Sorted_Array_of_Unknown_Size.java)
 * [1533. Find the Index of the Large Integer](https://github.com/tigerwash/LeetCode/blob/master/src/Binary_Search/Find_the_Index_of_the_Large_Integer.java)
 * [2576. Find the Maximum Number of Marked Indice](https://github.com/tigerwash/LeetCode/blob/master/src/Binary_Search/Find_the_Maximum_Number_of_Marked_Indices.java)
+* [2594. Minimum Time to Repair Cars](https://github.com/tigerwash/LeetCode/blob/master/src/Binary_Search/Minimum_Time_to_Repair_Cars.java)
+
+
 
 ## [Bit](https://github.com/tigerwash/LeetCode/tree/master/src/Bit)
 * [717. 1-bit and 2-bit Characters](https://github.com/tigerwash/LeetCode/blob/master/src/Bit/one_bit_and_two_bit_Characters.java)
@@ -47,19 +51,20 @@ https://leetcode.com/problems/minimum-time-to-repair-cars/discuss/3312003/JavaC%
 
 ## [DP](https://github.com/tigerwash/LeetCode/tree/master/src/DP)
 * [1062. Longest Repeating Substring](https://github.com/tigerwash/LeetCode/blob/master/src/DP/Longest_Repeating_Substring.java)
-* [2327. Number of People Aware of a Secret]
+* [2327. Number of People Aware of a Secret](https://github.com/tigerwash/LeetCode/blob/master/src/DP/Number_of_People_Aware_of_a_Secret.java)
 
 ## [LinkedList](https://github.com/tigerwash/LeetCode/tree/master/src/LinkedList)
-* [82. Remove Duplicates from Sorted List II]
+* [82. Remove Duplicates from Sorted List II](https://github.com/tigerwash/LeetCode/blob/master/src/LinkedList/Remove_Duplicates_from_Sorted_List_II.java)
 * [237. Delete Node in a Linked List](https://github.com/tigerwash/LeetCode/blob/master/src/LinkedList/Delete_Node_in_a_Linked_List.java)
 * [2487. Remove Nodes From Linked List](https://github.com/tigerwash/LeetCode/blob/master/src/LinkedList/Remove_Nodes_From_Linked_List.java)
 
 ## [Map](https://github.com/tigerwash/LeetCode/tree/master/src/Map)
 * [729. My Calendar I](https://github.com/tigerwash/LeetCode/blob/master/src/Map/My_Calendar_I.java)
 * [2250. Count Number of Rectangles Containing Each Point](https://github.com/tigerwash/LeetCode/blob/master/src/Map/Count_Number_of_Rectangles_Containing_Each_Point.java)
-* [2593. Find Score of an Array After Marking All Elements]
+* [2593. Find Score of an Array After Marking All Elements](https://github.com/tigerwash/LeetCode/blob/master/src/Map/Find_Score_of_an_Array_After_Marking_All_Elements.java)
 
 ## [Math](https://github.com/tigerwash/LeetCode/tree/master/src/Math)
+* [172. Factorial Trailing Zeroes] 
 * [2575. Find the Divisibility Array of a String](https://github.com/tigerwash/LeetCode/blob/master/src/Math/Find_the_Divisibility_Array_of_a_String.java) 大数整除
 
 ## [Union Find](https://github.com/tigerwash/LeetCode/tree/master/src/Union_Find)
