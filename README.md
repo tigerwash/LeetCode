@@ -7,8 +7,8 @@ keep practice
 * [228. Summary Ranges](https://github.com/tigerwash/LeetCode/blob/master/src/Array/Summary_Ranges.java)
 * [334. Increasing Triplet Subsequence](https://github.com/tigerwash/LeetCode/blob/master/src/Array/Increasing_Triplet_Subsequence.java)
 * [621. Task Scheduler](https://github.com/tigerwash/LeetCode/blob/master/src/Array/Task_schedule.java)
-* [2337. Move Pieces to Obtain a String]
-
+* [2337. Move Pieces to Obtain a String](https://github.com/tigerwash/LeetCode/blob/master/src/Array/Move_Pieces_to_Obtain_a_String.java)
+* [2343. Query Kth Smallest Trimmed Number]
 
 ## [ BFS ](https://github.com/tigerwash/LeetCode/tree/master/src/BFS)
 * [130. Surrounded Regions](https://github.com/tigerwash/LeetCode/blob/master/src/BFS/Surrounded_Regions.java)
@@ -64,7 +64,8 @@ https://leetcode.com/problems/minimum-time-to-repair-cars/discuss/3312003/JavaC%
 * [2593. Find Score of an Array After Marking All Elements](https://github.com/tigerwash/LeetCode/blob/master/src/Map/Find_Score_of_an_Array_After_Marking_All_Elements.java)
 
 ## [Math](https://github.com/tigerwash/LeetCode/tree/master/src/Math)
-* [172. Factorial Trailing Zeroes] 
+* [172. Factorial Trailing Zeroes](https://github.com/tigerwash/LeetCode/blob/master/src/Math/Factorial_Trailing_Zeroes.java)
+* [2344. Minimum Deletions to Make Array Divisible]
 * [2575. Find the Divisibility Array of a String](https://github.com/tigerwash/LeetCode/blob/master/src/Math/Find_the_Divisibility_Array_of_a_String.java) 大数整除
 
 ## [Union Find](https://github.com/tigerwash/LeetCode/tree/master/src/Union_Find)
