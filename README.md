@@ -4,11 +4,16 @@ keep practice
 ## [Array](https://github.com/tigerwash/LeetCode/tree/master/src/Array)
 * [5. Longest Palindromic Substring](https://github.com/tigerwash/LeetCode/blob/master/src/Array/5.%20Longest%20Palindromic%20Substring%20)
 * [80. Remove Duplicates from Sorted Array II](https://github.com/tigerwash/LeetCode/blob/master/src/Array/Remove_Duplicates_from_Sorted_Array_II.java)
+* [186. Reverse Words in a String II]
+* [209. Minimum Size Subarray Sum]
 * [228. Summary Ranges](https://github.com/tigerwash/LeetCode/blob/master/src/Array/Summary_Ranges.java)
+* [325. Maximum Size Subarray Sum Equals k]
 * [334. Increasing Triplet Subsequence](https://github.com/tigerwash/LeetCode/blob/master/src/Array/Increasing_Triplet_Subsequence.java)
 * [621. Task Scheduler](https://github.com/tigerwash/LeetCode/blob/master/src/Array/Task_schedule.java)
+* [918. Maximum Sum Circular Subarray]
 * [2337. Move Pieces to Obtain a String](https://github.com/tigerwash/LeetCode/blob/master/src/Array/Move_Pieces_to_Obtain_a_String.java)
 * [2343. Query Kth Smallest Trimmed Number]
+* [2405. Optimal Partition of String]
 
 ## [ BFS ](https://github.com/tigerwash/LeetCode/tree/master/src/BFS)
 * [130. Surrounded Regions](https://github.com/tigerwash/LeetCode/blob/master/src/BFS/Surrounded_Regions.java)
@@ -52,6 +57,7 @@ https://leetcode.com/problems/minimum-time-to-repair-cars/discuss/3312003/JavaC%
 ## [DP](https://github.com/tigerwash/LeetCode/tree/master/src/DP)
 * [1062. Longest Repeating Substring](https://github.com/tigerwash/LeetCode/blob/master/src/DP/Longest_Repeating_Substring.java)
 * [2327. Number of People Aware of a Secret](https://github.com/tigerwash/LeetCode/blob/master/src/DP/Number_of_People_Aware_of_a_Secret.java)
+* [2439. Minimize Maximum of Array]
 
 ## [LinkedList](https://github.com/tigerwash/LeetCode/tree/master/src/LinkedList)
 * [82. Remove Duplicates from Sorted List II](https://github.com/tigerwash/LeetCode/blob/master/src/LinkedList/Remove_Duplicates_from_Sorted_List_II.java)
@@ -67,6 +73,9 @@ https://leetcode.com/problems/minimum-time-to-repair-cars/discuss/3312003/JavaC%
 * [172. Factorial Trailing Zeroes](https://github.com/tigerwash/LeetCode/blob/master/src/Math/Factorial_Trailing_Zeroes.java)
 * [2344. Minimum Deletions to Make Array Divisible]
 * [2575. Find the Divisibility Array of a String](https://github.com/tigerwash/LeetCode/blob/master/src/Math/Find_the_Divisibility_Array_of_a_String.java) 大数整除
+
+## [Recursion]
+* [247. Strobogrammatic Number II]
 
 ## [Union Find](https://github.com/tigerwash/LeetCode/tree/master/src/Union_Find)
 * [1101. The Earliest Moment When Everyone Become Friends](https://github.com/tigerwash/LeetCode/blob/master/src/Union_Find/The_Earliest_Moment_When_Everyone_Become_Friends.java)
