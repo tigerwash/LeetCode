@@ -9,13 +9,13 @@ keep practice
 * [228. Summary Ranges](https://github.com/tigerwash/LeetCode/blob/master/src/Array/Summary_Ranges.java)
 * [325. Maximum Size Subarray Sum Equals k](https://github.com/tigerwash/LeetCode/blob/master/src/Array/Maximum_Size_Subarray_Sum_Equals_k.java)
 * [334. Increasing Triplet Subsequence](https://github.com/tigerwash/LeetCode/blob/master/src/Array/Increasing_Triplet_Subsequence.java)
-* [616. Add Bold Tag in String]
+* [616. Add Bold Tag in String](https://github.com/tigerwash/LeetCode/blob/master/src/Array/Add_Bold_Tag_in_String.java)
 * [621. Task Scheduler](https://github.com/tigerwash/LeetCode/blob/master/src/Array/Task_schedule.java)
 * [918. Maximum Sum Circular Subarray](https://github.com/tigerwash/LeetCode/blob/master/src/Array/Maximum_Sum_Circular_Subarray.java)
-* [1405. Longest Happy String]
+* [1405. Longest Happy String](https://github.com/tigerwash/LeetCode/blob/master/src/Array/Longest_Happy_String.java)
 * [2337. Move Pieces to Obtain a String](https://github.com/tigerwash/LeetCode/blob/master/src/Array/Move_Pieces_to_Obtain_a_String.java)
 * [2343. Query Kth Smallest Trimmed Number](https://github.com/tigerwash/LeetCode/blob/master/src/Array/Query_Kth_Smallest_Trimmed_Number.java)
-* [2375. Construct Smallest Number From DI String]
+* [2375. Construct Smallest Number From DI String](https://github.com/tigerwash/LeetCode/blob/master/src/Array/Construct_Smallest_Number_From_DI_String.java)
 * [2405. Optimal Partition of String](https://github.com/tigerwash/LeetCode/blob/master/src/Array/Optimal_Partition_of_String.java)
 
 ## [ BFS ](https://github.com/tigerwash/LeetCode/tree/master/src/BFS)
@@ -79,7 +79,7 @@ https://leetcode.com/problems/minimum-time-to-repair-cars/discuss/3312003/JavaC%
 
 ## [Recursion](https://github.com/tigerwash/LeetCode/tree/master/src/Recursion)
 * [247. Strobogrammatic Number II](https://github.com/tigerwash/LeetCode/blob/master/src/Recursion/Strobogrammatic_Number_II.java)
-* [339. Nested List Weight Sum]
+* [339. Nested List Weight Sum](https://github.com/tigerwash/LeetCode/blob/master/src/Recursion/Nested_List_Weight_Sum.java)
 
 ## [Union Find](https://github.com/tigerwash/LeetCode/tree/master/src/Union_Find)
 * [1101. The Earliest Moment When Everyone Become Friends](https://github.com/tigerwash/LeetCode/blob/master/src/Union_Find/The_Earliest_Moment_When_Everyone_Become_Friends.java)
