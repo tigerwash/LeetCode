@@ -61,6 +61,7 @@ https://leetcode.com/problems/minimum-time-to-repair-cars/discuss/3312003/JavaC%
 * [1062. Longest Repeating Substring](https://github.com/tigerwash/LeetCode/blob/master/src/DP/Longest_Repeating_Substring.java)
 * [2327. Number of People Aware of a Secret](https://github.com/tigerwash/LeetCode/blob/master/src/DP/Number_of_People_Aware_of_a_Secret.java)
 * [2439. Minimize Maximum of Array](https://github.com/tigerwash/LeetCode/blob/master/src/DP/Minimize_Maximum_of_Array.java)
+* [2369. Check if There is a Valid Partition For The Array]
 
 ## [LinkedList](https://github.com/tigerwash/LeetCode/tree/master/src/LinkedList)
 * [82. Remove Duplicates from Sorted List II](https://github.com/tigerwash/LeetCode/blob/master/src/LinkedList/Remove_Duplicates_from_Sorted_List_II.java)
@@ -71,6 +72,7 @@ https://leetcode.com/problems/minimum-time-to-repair-cars/discuss/3312003/JavaC%
 * [729. My Calendar I](https://github.com/tigerwash/LeetCode/blob/master/src/Map/My_Calendar_I.java)
 * [2250. Count Number of Rectangles Containing Each Point](https://github.com/tigerwash/LeetCode/blob/master/src/Map/Count_Number_of_Rectangles_Containing_Each_Point.java)
 * [2593. Find Score of an Array After Marking All Elements](https://github.com/tigerwash/LeetCode/blob/master/src/Map/Find_Score_of_an_Array_After_Marking_All_Elements.java)
+* [2370. Longest Ideal Subsequence]
 
 ## [Math](https://github.com/tigerwash/LeetCode/tree/master/src/Math)
 * [172. Factorial Trailing Zeroes](https://github.com/tigerwash/LeetCode/blob/master/src/Math/Factorial_Trailing_Zeroes.java)
