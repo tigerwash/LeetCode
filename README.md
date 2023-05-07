@@ -24,7 +24,8 @@ keep practice
 ## [Binary Tree](https://github.com/tigerwash/LeetCode/tree/master/src/Binary_Tree)
 * [513. Find Bottom Left Tree Value](https://github.com/tigerwash/LeetCode/blob/master/src/Binary_Tree/Find_Bottom_Left_Tree_Value.java)
 * [536. Construct Binary Tree from String](https://github.com/tigerwash/LeetCode/blob/master/src/Binary_Tree/Construct_Binary_Tree_from_String.java)
-
+* [2673. Make Costs of Paths Equal in a Binary Tree]M+
+* 
 House Robber IV
 Maximum Candies Allocated to K Children
 Maximum Value at a Given Index in a Bounded Array
@@ -58,6 +59,7 @@ https://leetcode.com/problems/minimum-time-to-repair-cars/discuss/3312003/JavaC%
 * [244. Shortest Word Distance II](https://github.com/tigerwash/LeetCode/blob/master/src/Design/Shortest_Word_Distance_II.java)
 
 ## [DP](https://github.com/tigerwash/LeetCode/tree/master/src/DP)
+* [376. Wiggle Subsequence]
 * [1062. Longest Repeating Substring](https://github.com/tigerwash/LeetCode/blob/master/src/DP/Longest_Repeating_Substring.java)
 * [2327. Number of People Aware of a Secret](https://github.com/tigerwash/LeetCode/blob/master/src/DP/Number_of_People_Aware_of_a_Secret.java)
 * [2439. Minimize Maximum of Array](https://github.com/tigerwash/LeetCode/blob/master/src/DP/Minimize_Maximum_of_Array.java)
