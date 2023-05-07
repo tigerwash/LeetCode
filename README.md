@@ -86,5 +86,9 @@ https://leetcode.com/problems/minimum-time-to-repair-cars/discuss/3312003/JavaC%
 * [247. Strobogrammatic Number II](https://github.com/tigerwash/LeetCode/blob/master/src/Recursion/Strobogrammatic_Number_II.java)
 * [339. Nested List Weight Sum](https://github.com/tigerwash/LeetCode/blob/master/src/Recursion/Nested_List_Weight_Sum.java)
 
+## [Stack]
+* [856. Score of Parentheses] 
+
+
 ## [Union Find](https://github.com/tigerwash/LeetCode/tree/master/src/Union_Find)
 * [1101. The Earliest Moment When Everyone Become Friends](https://github.com/tigerwash/LeetCode/blob/master/src/Union_Find/The_Earliest_Moment_When_Everyone_Become_Friends.java)
