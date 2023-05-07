@@ -17,6 +17,7 @@ keep practice
 * [2343. Query Kth Smallest Trimmed Number](https://github.com/tigerwash/LeetCode/blob/master/src/Array/Query_Kth_Smallest_Trimmed_Number.java)
 * [2375. Construct Smallest Number From DI String](https://github.com/tigerwash/LeetCode/blob/master/src/Array/Construct_Smallest_Number_From_DI_String.java)
 * [2405. Optimal Partition of String](https://github.com/tigerwash/LeetCode/blob/master/src/Array/Optimal_Partition_of_String.java)
+* [2672. Number of Adjacent Elements With the Same Color](https://github.com/tigerwash/LeetCode/blob/master/src/Array/Number_of_Adjacent_Elements_With_the_Same_Color.java) M 
 
 ## [ BFS ](https://github.com/tigerwash/LeetCode/tree/master/src/BFS)
 * [130. Surrounded Regions](https://github.com/tigerwash/LeetCode/blob/master/src/BFS/Surrounded_Regions.java)
@@ -24,7 +25,7 @@ keep practice
 ## [Binary Tree](https://github.com/tigerwash/LeetCode/tree/master/src/Binary_Tree)
 * [513. Find Bottom Left Tree Value](https://github.com/tigerwash/LeetCode/blob/master/src/Binary_Tree/Find_Bottom_Left_Tree_Value.java)
 * [536. Construct Binary Tree from String](https://github.com/tigerwash/LeetCode/blob/master/src/Binary_Tree/Construct_Binary_Tree_from_String.java)
-* [2673. Make Costs of Paths Equal in a Binary Tree]M+
+* [2673. Make Costs of Paths Equal in a Binary Tree](https://github.com/tigerwash/LeetCode/blob/master/src/Binary_Tree/Make_Costs_of_Paths_Equal_in_a_Binary_Tree.java)M+
 * 
 House Robber IV
 Maximum Candies Allocated to K Children
@@ -59,7 +60,7 @@ https://leetcode.com/problems/minimum-time-to-repair-cars/discuss/3312003/JavaC%
 * [244. Shortest Word Distance II](https://github.com/tigerwash/LeetCode/blob/master/src/Design/Shortest_Word_Distance_II.java)
 
 ## [DP](https://github.com/tigerwash/LeetCode/tree/master/src/DP)
-* [376. Wiggle Subsequence]
+* [376. Wiggle Subsequence](https://github.com/tigerwash/LeetCode/blob/master/src/DP/Wiggle_Subsequence.java) M-
 * [1062. Longest Repeating Substring](https://github.com/tigerwash/LeetCode/blob/master/src/DP/Longest_Repeating_Substring.java)
 * [2327. Number of People Aware of a Secret](https://github.com/tigerwash/LeetCode/blob/master/src/DP/Number_of_People_Aware_of_a_Secret.java)
 * [2439. Minimize Maximum of Array](https://github.com/tigerwash/LeetCode/blob/master/src/DP/Minimize_Maximum_of_Array.java)
