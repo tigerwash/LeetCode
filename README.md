@@ -13,11 +13,11 @@ keep practice
 * [621. Task Scheduler](https://github.com/tigerwash/LeetCode/blob/master/src/Array/Task_schedule.java)
 * [918. Maximum Sum Circular Subarray](https://github.com/tigerwash/LeetCode/blob/master/src/Array/Maximum_Sum_Circular_Subarray.java)
 * [1405. Longest Happy String](https://github.com/tigerwash/LeetCode/blob/master/src/Array/Longest_Happy_String.java)
-* [1498. Number of Subsequences That Satisfy the Given Sum Condition]
+* [1498. Number of Subsequences That Satisfy the Given Sum Condition](https://github.com/tigerwash/LeetCode/blob/master/src/Array/Number_of_Subsequences_That_Satisfy_the_Given_Sum_Condition.java)
 * [2337. Move Pieces to Obtain a String](https://github.com/tigerwash/LeetCode/blob/master/src/Array/Move_Pieces_to_Obtain_a_String.java)
 * [2343. Query Kth Smallest Trimmed Number](https://github.com/tigerwash/LeetCode/blob/master/src/Array/Query_Kth_Smallest_Trimmed_Number.java)
 * [2375. Construct Smallest Number From DI String](https://github.com/tigerwash/LeetCode/blob/master/src/Array/Construct_Smallest_Number_From_DI_String.java)
-* [2384. Largest Palindromic Number]
+* [2384. Largest Palindromic Number](https://github.com/tigerwash/LeetCode/blob/master/src/Array/Largest_Palindromic_Number.java)
 * [2405. Optimal Partition of String](https://github.com/tigerwash/LeetCode/blob/master/src/Array/Optimal_Partition_of_String.java)
 * [2672. Number of Adjacent Elements With the Same Color](https://github.com/tigerwash/LeetCode/blob/master/src/Array/Number_of_Adjacent_Elements_With_the_Same_Color.java) M 
 
@@ -28,7 +28,7 @@ keep practice
 * [513. Find Bottom Left Tree Value](https://github.com/tigerwash/LeetCode/blob/master/src/Binary_Tree/Find_Bottom_Left_Tree_Value.java)
 * [536. Construct Binary Tree from String](https://github.com/tigerwash/LeetCode/blob/master/src/Binary_Tree/Construct_Binary_Tree_from_String.java)
 * [2673. Make Costs of Paths Equal in a Binary Tree](https://github.com/tigerwash/LeetCode/blob/master/src/Binary_Tree/Make_Costs_of_Paths_Equal_in_a_Binary_Tree.java)M+
-* [2385. Amount of Time for Binary Tree to Be Infected]
+* [2385. Amount of Time for Binary Tree to Be Infected](https://github.com/tigerwash/LeetCode/blob/master/src/Binary_Tree/Amount_of_Time_for_Binary_Tree_to_Be_Infected.java)
 House Robber IV
 Maximum Candies Allocated to K Children
 Maximum Value at a Given Index in a Bounded Array
@@ -64,7 +64,7 @@ https://leetcode.com/problems/minimum-time-to-repair-cars/discuss/3312003/JavaC%
 ## [DP](https://github.com/tigerwash/LeetCode/tree/master/src/DP)
 * [376. Wiggle Subsequence](https://github.com/tigerwash/LeetCode/blob/master/src/DP/Wiggle_Subsequence.java) M-
 * [1062. Longest Repeating Substring](https://github.com/tigerwash/LeetCode/blob/master/src/DP/Longest_Repeating_Substring.java)
-* [1143. Longest Common Subsequence]
+* [1143. Longest Common Subsequence](https://github.com/tigerwash/LeetCode/blob/master/src/DP/Longest_Common_Subsequence.java)
 * [2327. Number of People Aware of a Secret](https://github.com/tigerwash/LeetCode/blob/master/src/DP/Number_of_People_Aware_of_a_Secret.java)
 * [2439. Minimize Maximum of Array](https://github.com/tigerwash/LeetCode/blob/master/src/DP/Minimize_Maximum_of_Array.java)
 * [2369. Check if There is a Valid Partition For The Array](https://github.com/tigerwash/LeetCode/blob/3865999d627e6232ad8a5c1c6b7ba26ec648b52d/src/DP/Check_if_There_is_a_Valid_Partition_For_The_Array.java) M-
@@ -88,7 +88,7 @@ https://leetcode.com/problems/minimum-time-to-repair-cars/discuss/3312003/JavaC%
 ## [Recursion](https://github.com/tigerwash/LeetCode/tree/master/src/Recursion)
 * [247. Strobogrammatic Number II](https://github.com/tigerwash/LeetCode/blob/master/src/Recursion/Strobogrammatic_Number_II.java)
 * [339. Nested List Weight Sum](https://github.com/tigerwash/LeetCode/blob/master/src/Recursion/Nested_List_Weight_Sum.java)
-* [494. Target Sum]
+* [494. Target Sum](https://github.com/tigerwash/LeetCode/blob/master/src/Recursion/Target_Sum.java)
 
 
 ## [Stack](https://github.com/tigerwash/LeetCode/tree/master/src/Stack)
