@@ -14,13 +14,14 @@ keep practice
 * [918. Maximum Sum Circular Subarray](https://github.com/tigerwash/LeetCode/blob/master/src/Array/Maximum_Sum_Circular_Subarray.java)
 * [1405. Longest Happy String](https://github.com/tigerwash/LeetCode/blob/master/src/Array/Longest_Happy_String.java)
 * [1498. Number of Subsequences That Satisfy the Given Sum Condition](https://github.com/tigerwash/LeetCode/blob/master/src/Array/Number_of_Subsequences_That_Satisfy_the_Given_Sum_Condition.java)
+* [1536. Minimum Swaps to Arrange a Binary Grid]
 * [2337. Move Pieces to Obtain a String](https://github.com/tigerwash/LeetCode/blob/master/src/Array/Move_Pieces_to_Obtain_a_String.java)
 * [2343. Query Kth Smallest Trimmed Number](https://github.com/tigerwash/LeetCode/blob/master/src/Array/Query_Kth_Smallest_Trimmed_Number.java)
 * [2375. Construct Smallest Number From DI String](https://github.com/tigerwash/LeetCode/blob/master/src/Array/Construct_Smallest_Number_From_DI_String.java)
 * [2384. Largest Palindromic Number](https://github.com/tigerwash/LeetCode/blob/master/src/Array/Largest_Palindromic_Number.java)
 * [2405. Optimal Partition of String](https://github.com/tigerwash/LeetCode/blob/master/src/Array/Optimal_Partition_of_String.java)
-* [2401. Longest Nice Subarray]
-* [2641. Cousins in Binary Tree II]
+* [2401. Longest Nice Subarray](https://github.com/tigerwash/LeetCode/blob/master/src/Array/Longest_Nice_Subarray.java)
+
 * [2672. Number of Adjacent Elements With the Same Color](https://github.com/tigerwash/LeetCode/blob/master/src/Array/Number_of_Adjacent_Elements_With_the_Same_Color.java) M 
 
 ## [ BFS ](https://github.com/tigerwash/LeetCode/tree/master/src/BFS)
@@ -29,6 +30,7 @@ keep practice
 ## [Binary Tree](https://github.com/tigerwash/LeetCode/tree/master/src/Binary_Tree)
 * [513. Find Bottom Left Tree Value](https://github.com/tigerwash/LeetCode/blob/master/src/Binary_Tree/Find_Bottom_Left_Tree_Value.java)
 * [536. Construct Binary Tree from String](https://github.com/tigerwash/LeetCode/blob/master/src/Binary_Tree/Construct_Binary_Tree_from_String.java)
+* [2641. Cousins in Binary Tree II](https://github.com/tigerwash/LeetCode/blob/master/src/Binary_Tree/Cousins_in_Binary_Tree_II.java)
 * [2673. Make Costs of Paths Equal in a Binary Tree](https://github.com/tigerwash/LeetCode/blob/master/src/Binary_Tree/Make_Costs_of_Paths_Equal_in_a_Binary_Tree.java)M+
 * [2385. Amount of Time for Binary Tree to Be Infected](https://github.com/tigerwash/LeetCode/blob/master/src/Binary_Tree/Amount_of_Time_for_Binary_Tree_to_Be_Infected.java)
 House Robber IV
@@ -72,7 +74,7 @@ https://leetcode.com/problems/minimum-time-to-repair-cars/discuss/3312003/JavaC%
 * [2369. Check if There is a Valid Partition For The Array](https://github.com/tigerwash/LeetCode/blob/3865999d627e6232ad8a5c1c6b7ba26ec648b52d/src/DP/Check_if_There_is_a_Valid_Partition_For_The_Array.java) M-
 
 ## [Graph]
-* [2642. Design Graph With Shortest Path Calculator]
+* [2642. Design Graph With Shortest Path Calculator](https://github.com/tigerwash/LeetCode/blob/master/src/Graph/Design_Graph_With_Shortest_Path_Calculator.java)
 
 ## [LinkedList](https://github.com/tigerwash/LeetCode/tree/master/src/LinkedList)
 * [82. Remove Duplicates from Sorted List II](https://github.com/tigerwash/LeetCode/blob/master/src/LinkedList/Remove_Duplicates_from_Sorted_List_II.java)
@@ -88,7 +90,7 @@ https://leetcode.com/problems/minimum-time-to-repair-cars/discuss/3312003/JavaC%
 ## [Math](https://github.com/tigerwash/LeetCode/tree/master/src/Math)
 * [172. Factorial Trailing Zeroes](https://github.com/tigerwash/LeetCode/blob/master/src/Math/Factorial_Trailing_Zeroes.java)
 * [2344. Minimum Deletions to Make Array Divisible](https://github.com/tigerwash/LeetCode/blob/master/src/Math/Minimum_Deletions_to_Make_Array_Divisible.java)
-* [2400. Number of Ways to Reach a Position After Exactly k Steps]
+* [2400. Number of Ways to Reach a Position After Exactly k Steps](https://github.com/tigerwash/LeetCode/blob/master/src/Math/Number_of_Ways_to_Reach_a_Position_After_Exactly_k_Steps.java)
 * [2575. Find the Divisibility Array of a String](https://github.com/tigerwash/LeetCode/blob/master/src/Math/Find_the_Divisibility_Array_of_a_String.java) 大数整除
 
 ## [Recursion](https://github.com/tigerwash/LeetCode/tree/master/src/Recursion)
