@@ -9,6 +9,7 @@ keep practice
 * [228. Summary Ranges](https://github.com/tigerwash/LeetCode/blob/master/src/Array/Summary_Ranges.java)
 * [325. Maximum Size Subarray Sum Equals k](https://github.com/tigerwash/LeetCode/blob/master/src/Array/Maximum_Size_Subarray_Sum_Equals_k.java)
 * [334. Increasing Triplet Subsequence](https://github.com/tigerwash/LeetCode/blob/master/src/Array/Increasing_Triplet_Subsequence.java)
+* [347. Top K Frequent Elements]
 * [616. Add Bold Tag in String](https://github.com/tigerwash/LeetCode/blob/master/src/Array/Add_Bold_Tag_in_String.java)
 * [621. Task Scheduler](https://github.com/tigerwash/LeetCode/blob/master/src/Array/Task_schedule.java)
 * [918. Maximum Sum Circular Subarray](https://github.com/tigerwash/LeetCode/blob/master/src/Array/Maximum_Sum_Circular_Subarray.java)
@@ -44,7 +45,7 @@ Capacity To Ship Packages In N Days
 Koko Eating Bananas
 Minimize Max Distance to Gas Station
 Split Array Largest Sum
-https://leetcode.com/problems/minimum-time-to-repair-cars/discuss/3312003/JavaC%2B%2BPython-Binary-Search-and-Heap-Solution
+https://leetcode.com/problems/minimum-time-to-repair-cars/discuss/3312003/JavaC%2B%2BPython-Binary-Search-and-Heap-Array.Sort.Solution
 
 
 ## [Binary Search](https://github.com/tigerwash/LeetCode/tree/master/src/Binary_Search)
@@ -64,6 +65,7 @@ https://leetcode.com/problems/minimum-time-to-repair-cars/discuss/3312003/JavaC%
 * [295. Find Median from Data Stream](https://github.com/tigerwash/LeetCode/blob/master/src/Design/Find_Median_from_Data_Stream.java) 
 * [380. Insert Delete GetRandom O(1)](https://github.com/tigerwash/LeetCode/blob/master/src/Design/Insert_Delete_GetRandom.java)
 * [244. Shortest Word Distance II](https://github.com/tigerwash/LeetCode/blob/master/src/Design/Shortest_Word_Distance_II.java)
+* [1146. Snapshot Array]
 
 ## [DP](https://github.com/tigerwash/LeetCode/tree/master/src/DP)
 * [376. Wiggle Subsequence](https://github.com/tigerwash/LeetCode/blob/master/src/DP/Wiggle_Subsequence.java) M-
