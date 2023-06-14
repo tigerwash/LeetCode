@@ -45,7 +45,7 @@ Capacity To Ship Packages In N Days
 Koko Eating Bananas
 Minimize Max Distance to Gas Station
 Split Array Largest Sum
-https://leetcode.com/problems/minimum-time-to-repair-cars/discuss/3312003/JavaC%2B%2BPython-Binary-Search-and-Heap-Array.Sort.Solution
+https://leetcode.com/problems/minimum-time-to-repair-cars/discuss/3312003/JavaC%2B%2BPython-Binary-Search-and-Heap-Array.Sort.Binary_Tree.Solution
 
 
 ## [Binary Search](https://github.com/tigerwash/LeetCode/tree/master/src/Binary_Search)
