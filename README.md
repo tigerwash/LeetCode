@@ -1,5 +1,5 @@
 # LeetCode
-keep practice 
+Keep practicing
 
 ## [Array](https://github.com/tigerwash/LeetCode/tree/master/src/Array)
 * [5. Longest Palindromic Substring](https://github.com/tigerwash/LeetCode/blob/master/src/Array/5.%20Longest%20Palindromic%20Substring%20)
