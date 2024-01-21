@@ -54,6 +54,8 @@ class Solution {
         List<String> res = new ArrayList();
         for(Node n : set){
             res.add(n.name + "," + n.time + "," + n.amount + "," + n.city);
+
+
         }
         return res;
     }
