@@ -1,4 +1,4 @@
-package Map;
+package MapPQ;
 import java.util.*;
 
 /**
